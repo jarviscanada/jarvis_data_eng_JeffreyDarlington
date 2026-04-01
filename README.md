@@ -5,4 +5,3 @@
 4. [Spring Boot Trading REST API](./springboot) In-progress
 5. [Javascript Front End](./javascript) In-progress
 6. [Cloud/DevOps](./cloud_devops) In-progress
-

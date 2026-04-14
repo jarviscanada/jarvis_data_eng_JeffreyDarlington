@@ -42,6 +42,7 @@ crontab -e
 ## Implementation
 
 ### Architecture
+![my image](./assets/Liunx_Diagram.jpg)
 
 The system follows a lightweight agent-based monitoring architecture. Each Linux host in the cluster runs the monitoring scripts locally. The `host_info.sh` script runs once on initial setup to register hardware specs, while `host_usage.sh` is scheduled via crontab to run every minute. All data flows into a single PostgreSQL instance running inside a Docker container on the monitoring host.
 

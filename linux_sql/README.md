@@ -46,16 +46,6 @@ crontab -e
 
 The system follows a lightweight agent-based monitoring architecture. Each Linux host in the cluster runs the monitoring scripts locally. The `host_info.sh` script runs once on initial setup to register hardware specs, while `host_usage.sh` is scheduled via crontab to run every minute. All data flows into a single PostgreSQL instance running inside a Docker container on the monitoring host.
 
-```
-<<<<<<< HEAD
-[ Linux Host 1 ] --\
-[ Linux Host 2 ] ---+--> [ PostgreSQL DB (Docker) ] <-- [ Queries / Analysis ]
-[ Linux Host 3 ] --/
-=======
-![image](/home/rocky/dev/jarvis_data_eng_JeffreyDarlington/linux_sql/assets/cluster_diagram.jpg)
->>>>>>> 06b0040 (Fix up readme for linx_sql and added Architecture image)
-```
-
 > Architecture diagram saved to `assets/cluster_diagram.png`
 
 ---
@@ -64,9 +54,9 @@ The system follows a lightweight agent-based monitoring architecture. Each Linux
 
 **psql_docker.sh** — Manages the lifecycle of the PostgreSQL Docker container. Accepts `start`, `stop`, or `create` as arguments.
 ```bash
+./scripts/psql_docker.sh create [db_username] [db_password]
 ./scripts/psql_docker.sh start
 ./scripts/psql_docker.sh stop
-./scripts/psql_docker.sh create db_username db_password
 ```
 
 **host_info.sh** — Collects static hardware specifications from the host machine (CPU, memory, architecture) and inserts them into the `host_info` table. Run once per host.

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Jarvis Data Engineering Training
 >>>>>>> 06b0040 (Fix up readme for linx_sql and added Architecture image)
@@ -156,3 +157,7 @@ The application is deployed across three components. The PostgreSQL database run
 4. [Spring Boot Trading REST API](./springboot) In-progress
 5. [Javascript Front End](./javascript) In-progress
 6. [Cloud/DevOps](./cloud_devops) In-progress
+=======
+# Linux Cluster Monitoring Agent
+This project is under development. Since this project follows the GitFlow, the final work will be merged to the main branch after Team Code Team.
+>>>>>>> 29976bd (update README)

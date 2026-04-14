@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-# Jarvis Data Engineering Training
->>>>>>> 06b0040 (Fix up readme for linx_sql and added Architecture image)
 # Linux System Monitoring Agent
 
 ## Introduction
@@ -151,13 +146,3 @@ The application is deployed across three components. The PostgreSQL database run
 - **Add alerting for critical resource thresholds** — The system currently only stores data without any notification mechanism. Adding a threshold-based alert (e.g. flag when free memory drops below 10% or CPU idle drops below 5%) would make the system proactive rather than purely observational.
 
 - **Extend monitoring to network and process-level metrics** — The current implementation only tracks CPU, memory, and disk. Adding network throughput (`ifstat`) and top process monitoring (`ps aux`) would give a more complete picture of host health and make the system more useful for real incident diagnosis.
-
-2. [Core Java Apps](./core_java) In-progress
-3. [Python Data Analytics](./python_data_analytics) In-progress
-4. [Spring Boot Trading REST API](./springboot) In-progress
-5. [Javascript Front End](./javascript) In-progress
-6. [Cloud/DevOps](./cloud_devops) In-progress
-=======
-# Linux Cluster Monitoring Agent
-This project is under development. Since this project follows the GitFlow, the final work will be merged to the main branch after Team Code Team.
->>>>>>> 29976bd (update README)

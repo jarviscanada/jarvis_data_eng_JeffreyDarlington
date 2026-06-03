@@ -1,64 +1,46 @@
 # Jeffrey Darlington . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+Hi, I'm Jeffrey Darlington — a graduate of Seneca Polytechnic and a certified data analyst through NPower Canada, with a foundation built across software engineering, data systems, and infrastructure. What draws me to this industry is the role data plays as the backbone of modern business — not just as numbers, but as the engine behind decisions, products, and user experiences that shape how organizations operate and grow. My passion is building real systems end-to-end infrastructure where programming, data pipelines, and engineering thinking come together to solve meaningful problems and support better business outcomes.
 
 ## Skills
 
 **Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** Python, RDBMS/SQL(PostgresSQL, Oracle), Git, JavaScript, Data Analysis(Pandas, NumPy), Docker
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** Linux/Bash, C/C++, GCP, React, TypeScript
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JeffreyDarlington](https://github.com/jarviscanada/jarvis_data_eng_JeffreyDarlington)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/cloud_devops)]: Not Started
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JeffreyDarlington/tree/masterhttps://github.com/jarviscanada/jarvis_data_eng_JeffreyDarlington/tree/develop/linux_sql)]: Designed and built a lightweight cluster monitoring agent for Linux environments. Each node runs a Bash-based script that captures hardware specs and real-time resource metrics — CPU, memory, disk — and ships them to a centralized PostgreSQL database running in Docker. Built the full pipeline: data collection, automation via cron, containerized storage, and SQL-based validation to confirm accuracy.
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**StockDataCollectionAnalysis** [[GitHub](https://github.com/jeffreydarlington/StockDataCollectionAnalysis/tree/main)]: Extracted and visualized historical stock price and revenue data for Tesla and GameStop using finance and web scraping. Cleaned and structured the datasets with Pandas, then built reusable graphing functions to plot stock trends and quarterly revenue using Matplotlib.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**VenezuelaOilReservoirs-Fields2026** [[GitHub](https://github.com/jeffreydarlington/VenezuelaOilReservoirs-Fields2026/tree/main)]: Built a data-driven inventory and valuation analysis of Venezuela's upstream oil and gas assets, covering legacy basins and Orinoco Belt developments. Engineered and cleaned raw reserve data, calculated Reserve-to-Production ratios, classified fields by lifecycle status, and surfaced portfolio risks around crude grade and infrastructure. Used Python, Pandas, NumPy, Plotly, and Seaborn to deliver both interactive and static visualizations across basin and asset segments.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Data Engineer, Jarvis (March 2026-present)**: "Developing production-ready as a data engineering solutions in an Agile environment, working across the full lifecycle from design to delivery.  Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines.  Apply hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands."
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+
+**Customer Service Associate, Sunrise Caribbean Restaurant (June 2022- Sep 2022)**: "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit,  and digital transactions with 99% accuracy. Collaborated with team members to maintain cleanliness and organization, keeping daily operations  running smoothly and efficiently."
+
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Seneca Polytechnic (2023-2024)**, General Art Program Certificate, School of Creative Arts & Animation
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
+- IBM Data Analyst Specialization
 - Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Heavy weight lifting
+- Runner Half a marathon(25.30km)
+- Volunteer at SMSK Church
+- Photography

@@ -66,13 +66,18 @@ professional_experience:
     company: "Jarvis"
     duration: "March 2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Developing production-ready as a data engineering solutions in an Agile environment, working across the full lifecycle from design to delivery. Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines. 
-    Apply hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands."
+    description: > 
+      "Developing production-ready as a data engineering solutions in an Agile environment, working across the full lifecycle from design to delivery. 
+      Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines. 
+      Apply hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands."
 
   - title: "Customer Service Associate"
     company: "Sunrise Caribbean Restaurant"
     duration: "June 2022- Sep 2022"
-    description: "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit, and digital transactions with 99% accuracy. Collaborated with team members to maintain cleanliness and organization, keeping daily operations running smoothly and efficiently."
+    description: >
+      "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit, 
+      and digital transactions with 99% accuracy. Collaborated with team members to maintain cleanliness and organization, keeping daily operations 
+      running smoothly and efficiently."
 
 #List of edcuation
 education: 

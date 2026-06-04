@@ -6,32 +6,29 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_JeffreyDar
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
 summary:
-  Hi, I'm Jeffrey Darlington — a graduate of Seneca Polytechnic and a certified data analyst through NPower Canada, with a foundation built across software engineering, data systems, and infrastructure.
-  What draws me to this industry is the role data plays as the backbone of modern business — not just as numbers, but as the engine behind decisions, products, and user experiences that shape how organizations operate and grow.
+  I am a graduate of Seneca Polytechnic and a certified data analyst through NPower Canada, with a foundation built across software engineering, data systems, and infrastructure.
+  What draws me to this industry is the role data plays as the backbone of modern business not just as numbers, but as the engine behind decisions, products, and user experiences that shape how organizations operate and grow.
   My passion is building real systems end-to-end infrastructure where programming, data pipelines, and engineering thinking come together to solve meaningful problems and support better business outcomes.
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
+    - RDBMS/SQL
+    - Python(Pandas, NumPy, Matplotlib)
     - Java
     - Linux/Bash
-    - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Python
-    - RDBMS/SQL(PostgresSQL, Oracle)
     - Git
-    - JavaScript
-    - Data Analysis(Pandas, NumPy)
+    - Cloud Platforms(GCP)
     - Docker
   # At least 5 skills
   familiar:
-    - Linux/Bash
     - C/C++
-    - GCP
+    - JavaScript
     - React
     - TypeScript
 
@@ -51,7 +48,7 @@ highlighted_projects:
     #URL is optional
     git_url: "https://github.com/jeffreydarlington/StockDataCollectionAnalysis/tree/main"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Extracted and visualized historical stock price and revenue data for Tesla and GameStop using finance and web scraping. Cleaned and structured the datasets with Pandas, then built reusable graphing functions to plot stock trends and quarterly revenue using Matplotlib."
+    description: "Extracted and visualized select number historical of stocks price and revenue data for Tesla and GameStop using finance and web scraping. Cleaned and structured the datasets with Pandas, then built reusable graphing functions to plot stock trends and quarterly revenue using Matplotlib."
 
   - name: "VenezuelaOilReservoirs-Fields2026"
     git_url: "https://github.com/jeffreydarlington/VenezuelaOilReservoirs-Fields2026/tree/main"
@@ -67,17 +64,17 @@ professional_experience:
     duration: "March 2026-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: > 
-      "Developing production-ready as a data engineering solutions in an Agile environment, working across the full lifecycle from design to delivery. 
+      Contributed in production-ready as a data engineering solutions in an Agile environment, work across the full lifecycle from design to delivery. 
       Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines. 
-      Apply hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands."
+      Applied hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands.
 
   - title: "Customer Service Associate"
     company: "Sunrise Caribbean Restaurant"
     duration: "June 2022- Sep 2022"
     description: >
-      "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit, 
-      and digital transactions with 99% accuracy. Collaborated with team members to maintain cleanliness and organization, keeping daily operations 
-      running smoothly and efficiently."
+      Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit, 
+      and digital transactions. Collaborated with team members to maintain cleanliness and organization, keeping daily operations 
+      running smoothly and efficiently.
 
 #List of edcuation
 education: 
@@ -95,12 +92,10 @@ others:
     #list of items
     bullets:
       - "IBM Data Analyst Specialization"
-  - title: "Awards"
-    bullets:
-      - "Winner"
+      - "Pinball Accelerator Achievement"
   - title: "Activities/Hobbies"
     bullets:
-      - "Heavy weight lifting"
+      - "Heavy weight lifting with deadlift personal record of 315lb for 12 reps"
       - "Runner Half a marathon(25.30km)"
-      - "Volunteer at SMSK Church"
-      - "Photography"
+      - "Volunteer at SMSK Church in helping people in need by serving food and cleaning spaces in the church"
+      - "Photography of taking outdoor pictures"

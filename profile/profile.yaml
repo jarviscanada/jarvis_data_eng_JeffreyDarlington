@@ -25,12 +25,16 @@ skills:
     - Git
     - Cloud Platforms(GCP)
     - Docker
+    - Jupyter
+    - CI/CD(GitHub Actions)
+    - Python
   # At least 5 skills
   familiar:
     - C/C++
     - JavaScript
     - React
     - TypeScript
+    - C#
 
 # List of Jarvis projects
 jarvis_projects:

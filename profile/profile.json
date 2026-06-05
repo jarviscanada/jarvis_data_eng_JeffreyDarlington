@@ -39,12 +39,6 @@
     },
     {
       "bullets": [
-        "PinballFoundation"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
         "Heavy weight lifting with deadlift personal record of 315lb for 12 reps",
         "Runner Half a marathon(25.30km)",
         "Volunteer at SMSK Church in helping people in need by serving food and cleaning spaces in the church",
@@ -56,13 +50,13 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Contributed in production-ready as a data engineering solutions in an Agile environment, work across the full lifecycle from design to delivery. Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines. Applied hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands.\n",
+      "description": "Contributed in production-ready as a data engineering solutions in an Agile environment, work across the full lifecycle from design to delivery.  Collaborate closely with peers through standups, MCR sessions, and technical discussions, consistently shipping under tight timelines.  Applied hands-on skills in pipeline design, debugging, and system architecture while adapting to new tools and frameworks as the work demands.\n",
       "duration": "March 2026-present",
       "title": "Data Engineer"
     },
     {
       "company": "Sunrise Caribbean Restaurant",
-      "description": "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit, and digital transactions. Collaborated with team members to maintain cleanliness and organization, keeping daily operations running smoothly and efficiently.\n",
+      "description": "Delivered clear, customer-focused communication to understand and address needs effectively while handling cash, credit,  and digital transactions. Collaborated with team members to maintain cleanliness and organization, keeping daily operations  running smoothly and efficiently.\n",
       "duration": "June 2022- Sep 2022",
       "title": "Customer Service Associate"
     }
@@ -71,13 +65,17 @@
     "competent": [
       "Git",
       "Cloud Platforms(GCP)",
-      "Docker"
+      "Docker",
+      "Jupyter",
+      "CI/CD(GitHub Actions)",
+      "Python"
     ],
     "familiar": [
       "C/C++",
       "JavaScript",
       "React",
-      "TypeScript"
+      "TypeScript",
+      "C#"
     ],
     "proficient": [
       "RDBMS/SQL",
@@ -88,5 +86,5 @@
       "Git"
     ]
   },
-  "summary": "I am a graduate of Seneca Polytechnic and a certified data analyst through NPower Canada, with a foundation built across software engineering, data systems, and infrastructure.\n  What draws me to this industry is the role data plays as the backbone of modern business not just as numbers, but as the engine behind decisions, products, and user experiences that shape how organizations operate and grow.\n  My passion is building real systems end-to-end infrastructure where programming, data pipelines, and engineering thinking come together to solve meaningful problems and support better business outcomes."
+  "summary": "I am a graduate of Seneca Polytechnic and a certified data analyst through NPower Canada, with a foundation built across software engineering, data systems, and infrastructure. What draws me to this industry is the role data plays as the backbone of modern business not just as numbers, but as the engine behind decisions, products, and user experiences that shape how organizations operate and grow. My passion is building real systems end-to-end infrastructure where programming, data pipelines, and engineering thinking come together to solve meaningful problems and support better business outcomes."
 }

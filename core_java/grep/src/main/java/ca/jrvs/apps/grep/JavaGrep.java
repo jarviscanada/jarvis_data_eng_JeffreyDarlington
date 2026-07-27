@@ -2,6 +2,7 @@ package ca.jrvs.apps.grep;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 public interface JavaGrep {
@@ -17,6 +18,7 @@ public interface JavaGrep {
      * @param rootDir input directory
      * @return files under the rootDir
      */
+
     List<File> listFiles(String rootDir);
 
     /**
@@ -44,7 +46,7 @@ public interface JavaGrep {
      * @param lines matched line
      * @throws IOException if write failed
      */
-    void writeToFile(List<String> lines) throws IOException;
+    void writeToFile(List<String> matchedLines) throws IOException;
 
     String getRootPath();
 
